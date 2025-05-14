@@ -18,5 +18,5 @@
 
 任何问题与建议，欢迎移步 [Discussions](https://github.com/orgs/pagesx/discussions) 参与讨论。
 
-Insiders 版本相关的问题请移步 [**Insiders Discussions**](https://github.com/pagesx/PageX-Insiders/discussions) 进行反馈，感谢您的支持 >.<
+Insiders 版本相关的问题请移步 [**Insiders Discussions**](https://github.com/pagesx/Insiders/discussions) 进行反馈，感谢您的支持 >.<
 
