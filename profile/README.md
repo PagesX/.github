@@ -2,11 +2,11 @@
 
 **PagesX** 是的一个基于 **Pages** 驱动的主题与站点合集[**付费组织**](https://github.com/orgs/PagesX/discussions/2)。致力于基于 Hugo、MkDocs 等驱动的各种静态站点以及主题维护、分享与交流。
 
-- 博客 | 导航 | Homepage | 专业技术文档 | ......
+- 博客 | 导航 | 主页 | 专业技术文档 | ......
 
 ## 网站
 
-- https://pagex.top/
+- [**https://pagex.top/**](https://pagex.top/)
 
 ## 付费部署
 
