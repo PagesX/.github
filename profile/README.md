@@ -7,8 +7,8 @@
 ## 网站
 
 - 官网：[**https://pagex.top/**](https://pagex.top/)
-- NavPage-Hugo-Theme 示例站点：<https://navpage.pagex.top/>
-- NavPage-MkDocs 展示示例站点：<https://navdocs.pagex.top>
+- NavPage-Hugo-Theme 示例站点：<https://np.pagex.top/>
+- NavPage-MkDocs 展示示例站点：<https://mk.pagex.top>
 
 ## 付费部署
 
